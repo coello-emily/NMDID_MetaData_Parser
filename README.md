@@ -1,5 +1,3 @@
-# CSV_to_Pandas
-
 # NMDID Metadata Finder
 
 ## Project Overview
