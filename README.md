@@ -70,6 +70,10 @@ The final deliverable must:
 - **Internal communication** and **division of labor** are to be decided by the team.
 
 ---
+## Syntax Confusion
+If you are confused on any syntax, especially in GitHub, I recommend using this link:
+(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+This link will teach you the quicks bits about GitHub's special Markdown stuff (like the important, warning, and other boxes). More questions can go straight to me!
 
 ## Getting Started
 
