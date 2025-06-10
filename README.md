@@ -1,4 +1,4 @@
-# NMDID Metadata Finder
+# NMDID Metadata Parser
 
 ## Project Overview
 
@@ -75,6 +75,6 @@ The final deliverable must:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-private-org/nmdid-parser.git
+   git clone https://github.com/your-private-org/nmdid-metadata-parser.git
    cd nmdid-parser
 
