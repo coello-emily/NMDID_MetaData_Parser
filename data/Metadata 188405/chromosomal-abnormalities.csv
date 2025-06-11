@@ -1,0 +1,719 @@
+id,deidentified_record_number,chromosomal_abnormalities_type,abnormality_factor,is_familial
+11,142448,"Congenital Abnormalities","Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",No
+17,183345,,,
+19,169994,,,
+20,162430,,,
+36,151072,,,
+38,156177,,,
+39,163602,,,
+49,141402,,,
+58,183315,,,
+65,156973,,,
+78,161684,,,
+104,177308,"Congenital Abnormalities",None,No
+104,177308,"Congenital Abnormalities",None,Yes
+104,177308,"Genetic Disorders",None,No
+104,177308,"Genetic Disorders",None,Yes
+104,177308,Cancers,None,No
+104,177308,Cancers,None,Yes
+135,165123,"Congenital Abnormalities",None,No
+135,165123,"Genetic Disorders",None,No
+135,165123,Cancers,None,No
+151,142005,,,
+158,168439,,,
+172,183070,,,
+219,160339,,,
+223,141474,,,
+255,186248,,,
+272,159349,,,
+523,157279,"Congenital Abnormalities",None,No
+523,157279,"Congenital Abnormalities",None,Yes
+523,157279,"Genetic Disorders",None,No
+523,157279,"Genetic Disorders",None,Yes
+523,157279,Cancers,None,No
+523,157279,Cancers,Unknown,Yes
+545,181615,,,
+569,163162,,,
+583,155516,,,
+602,157276,,,
+616,156991,"Congenital Abnormalities","Spina bifida",No
+616,156991,"Congenital Abnormalities",None,Yes
+616,156991,"Genetic Disorders",None,No
+616,156991,"Genetic Disorders",None,Yes
+616,156991,Cancers,Unknown,Yes
+699,178217,,,
+715,179312,,,
+744,160711,,,
+753,149514,,,
+760,149738,,,
+768,149274,,,
+789,165318,,,
+855,170755,"Congenital Abnormalities",None,No
+855,170755,"Congenital Abnormalities",None,Yes
+855,170755,"Genetic Disorders",None,No
+855,170755,"Genetic Disorders",None,Yes
+855,170755,Cancers,"Prostate Cancer",Yes
+855,170755,Cancers,None,No
+903,187643,,,
+907,185886,"Congenital Abnormalities",None,No
+907,185886,"Congenital Abnormalities",None,Yes
+907,185886,"Genetic Disorders",None,No
+907,185886,"Genetic Disorders",None,Yes
+907,185886,Cancers,"Stomach (Gastric) Cancer",Yes
+907,185886,Cancers,None,No
+928,155996,,,
+965,147214,"Congenital Abnormalities",None,Yes
+965,147214,"Congenital Abnormalities",Unknown,No
+965,147214,"Genetic Disorders","Monosomies and deletions from the autosomes, not elsewhere classified",No
+965,147214,"Genetic Disorders",None,Yes
+965,147214,Cancers,None,No
+965,147214,Cancers,Unknown,Yes
+1017,160346,,,
+1040,141411,,,
+1058,177852,,,
+1112,164263,"Congenital Abnormalities",None,Yes
+1112,164263,"Congenital Abnormalities",Unknown,No
+1112,164263,"Genetic Disorders",None,No
+1112,164263,"Genetic Disorders",None,Yes
+1112,164263,Cancers,None,No
+1112,164263,Cancers,None,Yes
+1166,173346,,,
+1176,186609,,,
+1218,148517,,,
+1239,167594,"Congenital Abnormalities",None,No
+1239,167594,"Congenital Abnormalities",None,Yes
+1239,167594,"Genetic Disorders",None,No
+1239,167594,"Genetic Disorders",None,Yes
+1239,167594,Cancers,None,No
+1239,167594,Cancers,None,Yes
+1244,182511,,,
+1254,187823,,,
+1262,165056,,,
+1284,181490,"Congenital Abnormalities",None,No
+1284,181490,"Congenital Abnormalities",None,Yes
+1284,181490,"Genetic Disorders",None,No
+1284,181490,"Genetic Disorders",None,Yes
+1284,181490,Cancers,"Skin Cancer",Yes
+1291,170726,"Congenital Abnormalities",None,No
+1291,170726,"Congenital Abnormalities",None,Yes
+1291,170726,"Genetic Disorders",None,No
+1291,170726,"Genetic Disorders",None,Yes
+1291,170726,Cancers,"Liver Cancer",Yes
+1291,170726,Cancers,"Prostate Cancer",Yes
+1291,170726,Cancers,None,No
+1395,149757,,,
+1400,150272,,,
+1417,160802,,,
+1418,164523,,,
+1441,157644,,,
+1456,155748,,,
+1480,177158,,,
+1512,173691,,,
+1517,142741,,,
+1540,174512,,,
+1556,143743,,,
+1596,167851,,,
+1615,146982,,,
+1645,183022,,,
+1705,164862,Cancers,None,No
+1705,164862,Cancers,Unknown,Yes
+1725,188405,,,
+1730,150036,,,
+1742,164666,"Congenital Abnormalities","Other congenital malformations of intestine",No
+1742,164666,Cancers,None,No
+1756,154843,"Congenital Abnormalities","Other congenital malformations of digestive system",No
+1801,180911,,,
+1846,152362,,,
+1867,146536,,,
+1901,185129,,,
+1902,158044,,,
+1934,148956,,,
+1942,160076,,,
+1968,162195,,,
+1978,173486,"Congenital Abnormalities","Other congenital malformations, not elsewhere classified",No
+2014,178653,,,
+2015,185472,,,
+2019,157746,"Congenital Abnormalities",None,No
+2019,157746,"Congenital Abnormalities",None,Yes
+2019,157746,"Genetic Disorders",None,No
+2019,157746,"Genetic Disorders",None,Yes
+2019,157746,Cancers,"Prostate Cancer",Yes
+2019,157746,Cancers,"Squamous Cell Carcinoma of the Skin",Yes
+2019,157746,Cancers,None,No
+2093,173866,,,
+2162,141232,,,
+2165,172674,,,
+2173,169807,,,
+2208,164167,"Congenital Abnormalities","Other congenital malformations of heart",No
+2233,151331,,,
+2268,179695,,,
+2289,175445,,,
+2299,186525,,,
+2301,177331,,,
+2324,172202,,,
+2327,187288,,,
+2429,157274,,,
+2475,160558,"Congenital Abnormalities","Other congenital malformations, not elsewhere classified",No
+2475,160558,"Congenital Abnormalities",None,Yes
+2475,160558,"Genetic Disorders",None,No
+2475,160558,"Genetic Disorders",None,Yes
+2475,160558,Cancers,"Cancer, unknown type",Yes
+2475,160558,Cancers,None,No
+2517,180598,"Congenital Abnormalities","Spina bifida",No
+2535,179141,,,
+2562,168713,,,
+2587,152778,,,
+2592,153925,,,
+2668,186977,"Congenital Abnormalities","Congenital malformations of cardiac chambers and connections",No
+2692,183811,"Congenital Abnormalities",None,No
+2692,183811,"Congenital Abnormalities",None,Yes
+2692,183811,"Genetic Disorders",None,No
+2692,183811,"Genetic Disorders",None,Yes
+2692,183811,Cancers,"Breast Cancer",Yes
+2692,183811,Cancers,None,No
+2765,166125,,,
+2788,145382,,,
+2860,146671,,,
+2876,176499,,,
+2930,159749,"Congenital Abnormalities","Congenital malformations of aortic and mitral valves",No
+2930,159749,"Congenital Abnormalities",None,Yes
+2930,159749,"Genetic Disorders",None,No
+2930,159749,"Genetic Disorders",None,Yes
+2930,159749,Cancers,"Brain Tumors",Yes
+2952,184405,"Congenital Abnormalities",None,No
+2952,184405,"Congenital Abnormalities",None,Yes
+2952,184405,"Genetic Disorders","Other chromosome abnormalities, not elsewhere classified",No
+2952,184405,"Genetic Disorders","Other chromosome abnormalities, not elsewhere classified",Yes
+2952,184405,"Genetic Disorders",None,Yes
+2952,184405,Cancers,"Ovarian Cancer",Yes
+2952,184405,Cancers,None,No
+2966,176186,,,
+2979,159283,,,
+3031,147384,"Congenital Abnormalities","Other congenital malformations of brain",No
+3031,147384,"Congenital Abnormalities","Other congenital malformations of heart",No
+3031,147384,Cancers,None,No
+3048,167630,,,
+3059,169231,,,
+3100,164044,,,
+3204,177024,,,
+3246,142622,,,
+3260,181832,,,
+3436,163756,,,
+3476,151638,,,
+3517,159830,"Congenital Abnormalities",None,No
+3517,159830,"Congenital Abnormalities",None,Yes
+3517,159830,"Genetic Disorders",None,No
+3517,159830,"Genetic Disorders",None,Yes
+3517,159830,Cancers,"Liver Cancer",Yes
+3517,159830,Cancers,"Stomach (Gastric) Cancer",Yes
+3517,159830,Cancers,None,No
+3547,186552,,,
+3554,180623,,,
+3556,184481,,,
+3577,151061,,,
+3599,148635,,,
+3655,154689,,,
+3664,170717,,,
+3672,145129,"Congenital Abnormalities",None,No
+3672,145129,"Congenital Abnormalities",None,Yes
+3672,145129,"Genetic Disorders",None,No
+3672,145129,"Genetic Disorders",None,Yes
+3672,145129,Cancers,None,No
+3672,145129,Cancers,None,Yes
+3697,147411,"Congenital Abnormalities",None,No
+3697,147411,"Congenital Abnormalities",None,Yes
+3697,147411,"Genetic Disorders",None,No
+3697,147411,"Genetic Disorders",None,Yes
+3697,147411,Cancers,"Throat Cancer (Head and Neck Cancer)",Yes
+3697,147411,Cancers,None,No
+3727,182401,"Congenital Abnormalities",None,No
+3727,182401,"Congenital Abnormalities",None,Yes
+3727,182401,"Genetic Disorders",None,No
+3727,182401,"Genetic Disorders",None,Yes
+3727,182401,Cancers,Melanoma,Yes
+3727,182401,Cancers,None,No
+3736,181875,,,
+3793,163579,"Congenital Abnormalities","Other congenital malformations of ear",No
+3793,163579,"Congenital Abnormalities","Congenital malformations of cardiac septa",No
+3793,163579,"Congenital Abnormalities","Congenital malformations of lung",No
+3793,163579,"Congenital Abnormalities","Other congenital malformations of female genitalia",No
+3793,163579,"Congenital Abnormalities","Other congenital malformations of kidney",No
+3793,163579,"Genetic Disorders","Monosomies and deletions from the autosomes, not elsewhere classified",No
+3868,161901,,,
+3888,188007,,,
+3890,165385,,,
+3914,169012,,,
+3915,179858,,,
+3952,163573,"Congenital Abnormalities","Other congenital malformations of heart",No
+3952,163573,"Congenital Abnormalities","Congenital malformations of lung",No
+3952,163573,"Congenital Abnormalities","Other congenital malformations of kidney",No
+3967,174500,"Congenital Abnormalities","Congenital malformations of cardiac chambers and connections",No
+3967,174500,"Congenital Abnormalities","Congenital malformations of cardiac chambers and connections",Yes
+3993,163111,,,
+3994,170145,,,
+4072,181341,,,
+4073,183148,,,
+4143,174569,,,
+4159,167493,,,
+4267,172583,,,
+4307,143463,,,
+4361,143460,"Congenital Abnormalities",None,No
+4361,143460,"Congenital Abnormalities",None,Yes
+4361,143460,"Genetic Disorders",None,No
+4361,143460,"Genetic Disorders",None,Yes
+4361,143460,Cancers,"Mesothelioma, Malignant",Yes
+4361,143460,Cancers,None,No
+4368,149804,,,
+4407,157491,,,
+4436,168412,,,
+4478,178395,,,
+4490,146737,,,
+4508,162848,,,
+4578,156411,,,
+4599,183029,,,
+4698,152281,"Congenital Abnormalities","Other specified congenital malformation syndromes affecting multiple systems",No
+4722,164950,,,
+4786,163436,,,
+4792,171109,,,
+4841,182666,,,
+4949,177365,,,
+5046,180984,,,
+5051,186692,,,
+5069,168953,,,
+5092,164126,"Congenital Abnormalities",None,No
+5092,164126,"Congenital Abnormalities",None,Yes
+5092,164126,"Genetic Disorders",None,No
+5092,164126,"Genetic Disorders",None,Yes
+5092,164126,Cancers,None,No
+5092,164126,Cancers,Unknown,Yes
+5152,173664,,,
+5221,156224,,,
+5272,153262,,,
+5288,183228,"Congenital Abnormalities","Other congenital malformations of heart",No
+5288,183228,"Congenital Abnormalities","Other congenital malformations of intestine",No
+5356,180136,,,
+5364,151488,,,
+5390,161587,,,
+5408,147615,,,
+5414,178182,,,
+5439,176980,,,
+5450,154103,,,
+5468,173432,,,
+5489,181225,,,
+5501,150492,,,
+5550,158882,,,
+5586,169613,,,
+5599,144194,,,
+5602,164888,,,
+5604,173851,,,
+5613,144791,,,
+5626,174931,,,
+5643,167916,,,
+5672,170736,,,
+5679,143485,,,
+5712,178295,,,
+5760,164839,,,
+5795,178215,,,
+5827,169009,,,
+5850,164393,,,
+5962,162172,,,
+6026,152812,,,
+6028,188119,"Congenital Abnormalities",None,No
+6028,188119,"Congenital Abnormalities",None,Yes
+6028,188119,"Genetic Disorders",None,No
+6028,188119,"Genetic Disorders",None,Yes
+6028,188119,Cancers,None,No
+6028,188119,Cancers,None,Yes
+6057,168933,,,
+6067,144514,,,
+6110,148927,,,
+6178,145794,,,
+6183,164851,,,
+6232,143868,"Congenital Abnormalities",None,No
+6232,143868,"Congenital Abnormalities",Unknown,Yes
+6232,143868,"Genetic Disorders",None,No
+6232,143868,"Genetic Disorders",Unknown,Yes
+6232,143868,Cancers,None,No
+6232,143868,Cancers,Unknown,Yes
+6266,172592,,,
+6369,159554,,,
+6428,141547,,,
+6441,157092,,,
+6618,160887,,,
+6758,149168,,,
+6767,143515,,,
+6786,162951,,,
+6803,144493,,,
+6865,160551,,,
+6911,154205,,,
+6942,164389,,,
+6951,149643,,,
+6982,167353,,,
+6995,156272,,,
+7026,165073,,,
+7081,169286,,,
+7087,168705,,,
+7095,161815,,,
+7208,141721,"Congenital Abnormalities",None,No
+7237,187924,"Congenital Abnormalities",None,No
+7253,153801,,,
+7341,163793,,,
+7376,146474,,,
+7386,157937,,,
+7506,143255,,,
+7519,144955,,,
+7522,152863,,,
+7548,173992,,,
+7553,155758,,,
+7588,154727,,,
+7682,176789,,,
+7686,142830,,,
+7723,165205,,,
+7747,147596,,,
+7750,173623,"Congenital Abnormalities","Congenital malformations of cardiac chambers and connections",No
+7750,173623,"Congenital Abnormalities",None,Yes
+7750,173623,"Genetic Disorders","Down syndrome",Yes
+7750,173623,"Genetic Disorders",None,No
+7750,173623,Cancers,None,No
+7750,173623,Cancers,None,Yes
+7752,143438,,,
+7787,160897,,,
+7846,180130,,,
+7849,143377,,,
+7893,150671,,,
+7943,170457,,,
+7946,165637,,,
+7980,185458,,,
+8007,143848,,,
+8010,179740,,,
+8056,157175,,,
+8064,165825,,,
+8113,148810,,,
+8119,170431,,,
+8144,161027,,,
+8180,180915,,,
+8292,154187,,,
+8392,179579,,,
+8404,185170,,,
+8414,179433,,,
+8428,169025,,,
+8451,151986,,,
+8480,184311,,,
+8481,187096,,,
+8485,173902,,,
+8528,178267,,,
+8600,185839,,,
+8644,181591,,,
+8665,149575,,,
+8692,168962,,,
+8755,167271,,,
+8761,177677,,,
+8775,147478,,,
+8780,170884,,,
+8800,160258,,,
+8906,179973,,,
+8968,176787,,,
+8984,185973,,,
+9009,184449,,,
+9060,164998,,,
+9094,173655,"Congenital Abnormalities","Congenital malformations of cardiac chambers and connections",No
+9097,161486,,,
+9144,178872,,,
+9149,186244,,,
+9162,165045,,,
+9192,164034,"Congenital Abnormalities","Congenital malformations of cardiac septa",No
+9229,169985,,,
+9302,161632,,,
+9328,158205,,,
+9331,185301,,,
+9335,145463,,,
+9350,168569,,,
+9365,176346,,,
+9449,168987,,,
+9453,141409,,,
+9456,183689,,,
+9478,164401,"Congenital Abnormalities","Other congenital malformations of brain",No
+9531,178427,,,
+9592,169144,,,
+9605,149229,,,
+9617,155832,,,
+9619,176154,,,
+9625,162329,,,
+9630,166486,,,
+9663,141439,"Congenital Abnormalities","Other congenital malformations of heart",No
+9663,141439,"Congenital Abnormalities",None,Yes
+9663,141439,"Genetic Disorders","Down syndrome",No
+9663,141439,"Genetic Disorders",None,Yes
+9663,141439,Cancers,"Colorectal Cancer",Yes
+9663,141439,Cancers,"Lung Cancer (Non-Small Cell and Small Cell)",Yes
+9663,141439,Cancers,None,No
+9736,150548,,,
+9758,141305,,,
+9777,176943,,,
+9784,174700,,,
+9851,187742,,,
+9870,148698,,,
+9904,157627,,,
+9906,155468,,,
+9951,185967,,,
+9985,152330,,,
+9987,177047,,,
+9994,149357,,,
+10024,163121,,,
+10061,145659,,,
+10076,145340,,,
+10123,159424,,,
+10138,153148,,,
+10168,180696,,,
+10230,159065,,,
+10266,153893,,,
+10293,169431,,,
+10337,179725,,,
+10358,155599,,,
+10359,158991,,,
+10366,168847,,,
+10389,142122,,,
+10398,173535,,,
+10399,166724,,,
+10413,150985,"Congenital Abnormalities",None,No
+10413,150985,"Congenital Abnormalities",None,Yes
+10413,150985,"Genetic Disorders",None,No
+10413,150985,"Genetic Disorders",None,Yes
+10413,150985,Cancers,None,No
+10413,150985,Cancers,None,Yes
+10446,159033,,,
+10474,165012,,,
+10516,174130,,,
+10518,145703,,,
+10543,164588,,,
+10569,159714,,,
+10577,154537,,,
+10603,187658,,,
+10692,161248,,,
+10697,160221,,,
+10705,166196,,,
+10746,168770,,,
+10767,182508,,,
+10789,172678,,,
+10811,156816,,,
+10867,173328,,,
+10967,173155,,,
+10974,160536,,,
+10987,168622,,,
+11036,141824,,,
+11039,175102,,,
+11071,177382,,,
+11083,165974,,,
+11127,145443,,,
+11141,154623,,,
+11176,145492,,,
+11178,144737,,,
+11261,153222,,,
+11283,145973,"Congenital Abnormalities",None,No
+11283,145973,"Congenital Abnormalities",None,Yes
+11283,145973,"Genetic Disorders",None,No
+11283,145973,"Genetic Disorders",None,Yes
+11283,145973,Cancers,None,No
+11283,145973,Cancers,None,Yes
+11292,167879,,,
+11325,158711,,,
+11364,172839,,,
+11379,187772,"Congenital Abnormalities",None,No
+11379,187772,"Congenital Abnormalities",None,Yes
+11379,187772,"Genetic Disorders",None,No
+11379,187772,"Genetic Disorders",None,Yes
+11379,187772,Cancers,None,No
+11379,187772,Cancers,None,Yes
+11386,164076,,,
+11448,184371,,,
+11467,164538,,,
+11496,152154,,,
+11498,148224,,,
+11530,174940,,,
+11546,149777,,,
+11615,181097,,,
+11638,179035,,,
+11659,144675,,,
+11668,168486,,,
+11675,146331,,,
+11680,175737,,,
+11727,149439,,,
+11768,150916,"Congenital Abnormalities","Other congenital malformations of heart",No
+11798,171725,,,
+11858,187827,,,
+11895,167084,,,
+11898,158100,,,
+11900,152879,,,
+11926,175744,"Congenital Abnormalities","Congenital deformities of feet",No
+11926,175744,"Congenital Abnormalities","Congenital malformations of spine and bony thorax",No
+11947,163619,,,
+11978,161958,,,
+11983,160598,,,
+11984,154831,,,
+12002,157693,,,
+12023,159187,,,
+12042,149015,"Congenital Abnormalities","Other congenital malformations of brain",No
+12042,149015,"Congenital Abnormalities","Congenital malformations of trachea and bronchus",No
+12042,149015,"Congenital Abnormalities","Congenital malformations of esophagus",No
+12045,146136,,,
+12047,154826,,,
+12082,187926,,,
+12150,153790,,,
+12213,167852,,,
+12254,156643,,,
+12260,174456,,,
+12269,173453,,,
+12270,160103,,,
+12271,153569,,,
+12281,165456,,,
+12311,168665,,,
+12323,147248,,,
+12325,155970,,,
+12326,175315,,,
+12338,147587,,,
+12459,168172,,,
+12505,181471,"Congenital Abnormalities",None,No
+12505,181471,"Congenital Abnormalities",None,Yes
+12505,181471,"Genetic Disorders",None,No
+12505,181471,"Genetic Disorders",None,Yes
+12505,181471,Cancers,None,No
+12505,181471,Cancers,None,Yes
+12512,165403,"Congenital Abnormalities",None,No
+12512,165403,"Congenital Abnormalities",None,Yes
+12512,165403,"Genetic Disorders",None,No
+12512,165403,"Genetic Disorders",None,Yes
+12512,165403,Cancers,None,No
+12512,165403,Cancers,None,Yes
+12527,143979,"Congenital Abnormalities",None,No
+12527,143979,"Congenital Abnormalities",None,Yes
+12527,143979,"Genetic Disorders",None,No
+12527,143979,"Genetic Disorders",None,Yes
+12527,143979,Cancers,None,No
+12527,143979,Cancers,None,Yes
+12543,167488,,,
+12552,179628,,,
+12594,160416,,,
+12633,182397,,,
+12738,147706,,,
+12742,177700,,,
+12875,178241,,,
+12891,144726,,,
+12923,165395,,,
+12974,175834,,,
+12981,167077,,,
+13045,181070,,,
+13059,162012,,,
+13109,187615,,,
+13148,165827,,,
+13223,142269,,,
+13236,171754,"Congenital Abnormalities",None,No
+13236,171754,"Congenital Abnormalities",None,Yes
+13236,171754,"Genetic Disorders",None,No
+13236,171754,"Genetic Disorders",None,Yes
+13236,171754,Cancers,"Lung Cancer (Non-Small Cell and Small Cell)",Yes
+13236,171754,Cancers,None,No
+13253,159165,,,
+13260,149451,,,
+13330,168266,,,
+13353,170191,,,
+13358,147423,,,
+13379,186335,,,
+13391,155598,,,
+13406,171885,,,
+13443,176595,,,
+13562,160095,,,
+13657,177798,"Congenital Abnormalities",None,No
+13657,177798,"Genetic Disorders",None,No
+13657,177798,"Genetic Disorders",None,Yes
+13657,177798,Cancers,"Cancer, unknown type",Yes
+13657,177798,Cancers,None,No
+13657,177798,Cancers,None,Yes
+13691,184792,"Congenital Abnormalities",None,No
+13691,184792,"Congenital Abnormalities",None,Yes
+13691,184792,"Genetic Disorders",None,No
+13691,184792,"Genetic Disorders",None,Yes
+13691,184792,Cancers,"Lung Cancer (Non-Small Cell and Small Cell)",Yes
+13691,184792,Cancers,None,No
+13693,150141,,,
+13696,151823,,,
+13702,149066,,,
+13725,163806,"Congenital Abnormalities",Unknown,No
+13752,154576,"Congenital Abnormalities",Unknown,Yes
+13780,144037,"Congenital Abnormalities","Other congenital malformations of heart",Yes
+13780,144037,"Congenital Abnormalities",None,No
+13780,144037,"Genetic Disorders",None,No
+13780,144037,"Genetic Disorders",None,Yes
+13780,144037,Cancers,None,No
+13780,144037,Cancers,None,Yes
+13808,181703,"Congenital Abnormalities",None,No
+13808,181703,"Congenital Abnormalities",None,Yes
+13808,181703,"Genetic Disorders",None,No
+13808,181703,"Genetic Disorders",None,Yes
+13808,181703,Cancers,None,No
+13808,181703,Cancers,None,Yes
+13819,183546,"Congenital Abnormalities",None,No
+13819,183546,"Congenital Abnormalities",None,Yes
+13819,183546,"Genetic Disorders",None,No
+13819,183546,"Genetic Disorders",None,Yes
+13819,183546,Cancers,None,No
+13819,183546,Cancers,None,Yes
+13831,154606,,,
+13878,149043,,,
+13999,184638,,,
+14002,182887,,,
+14022,155306,,,
+14060,158127,,,
+14092,142473,,,
+14142,158851,,,
+14153,172928,,,
+14264,167431,,,
+14294,165448,"Congenital Abnormalities",None,No
+14294,165448,"Congenital Abnormalities",Unknown,Yes
+14294,165448,"Genetic Disorders",None,No
+14294,165448,"Genetic Disorders",Unknown,Yes
+14294,165448,Cancers,None,No
+14377,165698,,,
+14409,185034,,,
+14419,144903,"Congenital Abnormalities",None,No
+14419,144903,"Congenital Abnormalities",None,Yes
+14419,144903,"Genetic Disorders",None,No
+14419,144903,"Genetic Disorders",None,Yes
+14419,144903,Cancers,"Urethral Cancer",Yes
+14419,144903,Cancers,None,No
+14457,174433,,,
+14470,179487,,,
+14492,171757,,,
+14500,183875,,,
+14516,176958,"Congenital Abnormalities",None,No
+14516,176958,"Congenital Abnormalities",None,Yes
+14516,176958,"Genetic Disorders",None,No
+14516,176958,"Genetic Disorders",None,Yes
+14516,176958,Cancers,"Cancer, unknown type",Yes
+14549,144496,,,
+14558,144127,,,
+14569,188036,,,
+14587,178600,,,
+14589,163638,,,
+14664,146323,,,
+14665,187093,,,
+14697,183091,,,
+14723,163844,,,
+14801,173632,,,
+14815,174502,,,
+14826,162929,,,
+14840,177133,,,
+14845,148942,,,
+14863,166352,,,
+14864,164857,,,
+14882,183644,,,
+14890,152954,,,
+14899,175526,,,
+14939,145559,,,
+14943,167181,,,
+14954,151603,,,
+14991,158676,,,
+15053,176474,,,
+15074,172604,,,
+15175,156506,,,
+15229,174686,,,
+15243,184929,,,

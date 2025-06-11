@@ -1,0 +1,184 @@
+id,deidentified_record_number,ancestor,birthplace,city_of_birth,state_of_birth,country_of_birth
+3,189759,,,,,
+15,191503,,,,,
+401,189809,,,,,
+403,191879,,,,,
+596,193704,,,,,
+713,196415,Mother,"In the United States","El Paso",TX,USA
+713,196415,Father,"In the United States","El Paso",TX,USA
+713,196415,"Maternal Father","In Mexico",,,MEX
+713,196415,"Maternal Mother","In Mexico",,,MEX
+713,196415,"Paternal Father",Unknown,,,
+713,196415,"Paternal Mother",Unknown,,,
+743,191126,,,,,
+942,199400,,,,,
+1310,195181,,,,,
+1329,198461,,,,,
+1484,197522,,,,,
+1493,194332,,,,,
+1514,196529,Mother,"In the United States",,WA,USA
+1514,196529,Father,"In the United States",,CT,USA
+1514,196529,"Maternal Father","In the United States",,VT,USA
+1514,196529,"Maternal Mother","In the United States",,NJ,USA
+1514,196529,"Paternal Father","In the United States",,NY,USA
+1514,196529,"Paternal Mother","In the United States",,PA,USA
+1759,192437,Mother,"In the United States",Albuquerque,NM,USA
+1759,192437,Father,"In the United States",,GA,USA
+1759,192437,"Maternal Father",Unknown,,,
+1759,192437,"Maternal Mother","In the United States",Mountainair,NM,USA
+1759,192437,"Paternal Father","In the United States",,GA,USA
+1759,192437,"Paternal Mother","In the United States",,GA,USA
+1818,191606,,,,,
+1840,188407,,,,,
+1914,199301,,,,,
+1921,198756,,,,,
+1926,191023,,,,,
+1936,189898,,,,,
+1956,192674,,,,,
+2215,195524,,,,,
+2269,197167,,,,,
+2338,195326,,,,,
+2449,194248,,,,,
+2454,199852,,,,,
+2513,196310,,,,,
+2760,189016,,,,,
+2939,189558,,,,,
+3110,198161,,,,,
+3111,193837,,,,,
+3223,194979,,,,,
+3305,199685,,,,,
+3337,199725,,,,,
+3342,190220,,,,,
+3458,195897,Mother,"In the United States",Taos,NM,USA
+3458,195897,Father,"In the United States",Billings,MT,USA
+3458,195897,"Maternal Father","In the United States",Taos,NM,USA
+3458,195897,"Maternal Mother","In the United States",Taos,NM,USA
+3458,195897,"Paternal Father","In the United States",,MT,USA
+3458,195897,"Paternal Mother","In the United States",,MT,USA
+3460,198846,,,,,
+3593,198258,,,,,
+3755,190774,,,,,
+3789,193325,,,,,
+3818,199845,,,,,
+3822,191553,,,,,
+3837,191031,,,,,
+3901,193039,,,,,
+4215,196944,,,,,
+4268,191479,,,,,
+4516,189432,,,,,
+4611,191675,,,,,
+4704,188869,,,,,
+4750,192188,,,,,
+4986,190979,,,,,
+5185,195770,,,,,
+5186,194853,,,,,
+5230,197889,Mother,"In the United States",Espanola,NM,USA
+5230,197889,Father,"In the United States",Espanola,NM,USA
+5230,197889,"Maternal Father","In the United States",,NM,USA
+5230,197889,"Maternal Mother","In the United States",,NM,USA
+5230,197889,"Paternal Father","In the United States",,NM,USA
+5230,197889,"Paternal Mother","In the United States",,NM,USA
+5262,197339,,,,,
+5286,191569,,,,,
+5303,190580,,,,,
+5305,190466,,,,,
+5444,188458,,,,,
+5733,191347,,,,,
+5906,195093,,,,,
+5985,196121,,,,,
+6167,194680,,,,,
+6375,192385,,,,,
+6429,197546,,,,,
+6433,198444,,,,,
+6470,196947,,,,,
+6479,197133,,,,,
+6700,192604,,,,,
+7407,192861,,,,,
+7501,199986,,,,,
+7532,192949,,,,,
+7647,193516,,,,,
+8140,199464,,,,,
+8339,199729,,,,,
+8354,188409,,,,,
+8417,193538,,,,,
+8544,197234,,,,,
+8567,195600,,,,,
+8667,194023,,,,,
+8785,195202,,,,,
+8966,194568,,,,,
+8999,194839,,,,,
+9514,193509,,,,,
+9820,199323,,,,,
+9990,198522,,,,,
+10038,197910,,,,,
+10079,191532,,,,,
+10223,192130,,,,,
+10347,199696,,,,,
+10412,198374,Mother,"In the United States",Lebanon,PA,USA
+10412,198374,Father,Unknown,,,
+10412,198374,"Maternal Father","In the United States",Harrisburg,PA,USA
+10412,198374,"Maternal Mother","In the United States","Sioux City",PA,USA
+10563,193766,,,,,
+10729,199647,,,,,
+10753,190998,,,,,
+10898,188733,,,,,
+11070,190067,,,,,
+11191,191962,,,,,
+11204,195491,,,,,
+11214,197918,,,,,
+11242,188482,,,,,
+11502,197863,,,,,
+11506,199691,,,,,
+11616,189094,,,,,
+11665,193457,,,,,
+11702,193603,,,,,
+11813,191501,,,,,
+11817,198919,,,,,
+11877,195695,,,,,
+11881,189100,,,,,
+11908,195971,,,,,
+11909,188613,,,,,
+11946,195455,,,,,
+12019,194951,,,,,
+12056,194293,,,,,
+12136,193369,,,,,
+12212,198463,,,,,
+12268,198688,,,,,
+12395,190730,,,,,
+12485,188454,,,,,
+12617,188693,,,,,
+12626,195444,,,,,
+12703,189666,,,,,
+12726,198380,,,,,
+12784,193974,,,,,
+12869,195454,,,,,
+12947,197353,,,,,
+13012,194407,,,,,
+13112,193328,,,,,
+13158,188516,,,,,
+13250,192490,,,,,
+13395,191251,,,,,
+13396,195011,,,,,
+13642,198895,,,,,
+13756,197416,Mother,"In the United States",,TX,USA
+13756,197416,Father,"In the United States",Bryan,TX,USA
+13756,197416,"Maternal Father","In the United States",,TX,USA
+13756,197416,"Maternal Mother","In the United States",,TX,USA
+13756,197416,"Paternal Father","In the United States",,,USA
+13756,197416,"Paternal Mother","In the United States",,,USA
+13841,197141,,,,,
+13965,199918,,,,,
+14030,199202,,,,,
+14353,190886,Mother,"In the United States",Espanola,NM,USA
+14353,190886,Father,"In the United States",Espanola,NM,USA
+14353,190886,"Maternal Father","In the United States",Espanola,NM,USA
+14353,190886,"Maternal Mother","In the United States",Espanola,NM,USA
+14353,190886,"Paternal Father","In the United States",Espanola,NM,USA
+14353,190886,"Paternal Mother","In the United States",Espanola,NM,USA
+14476,195937,,,,,
+14501,192920,,,,,
+14749,194362,,,,,
+14764,191422,,,,,
+14843,198965,,,,,
+14907,194114,,,,,
+15032,188913,,,,,

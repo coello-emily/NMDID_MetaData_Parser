@@ -1,0 +1,691 @@
+id,deidentified_record_number,ancestor,birthplace,city_of_birth,state_of_birth,country_of_birth
+33,135532,,,,,
+34,137511,,,,,
+40,116690,Mother,"In the United States","Los Alamos",NM,USA
+40,116690,Father,Unknown,,,
+40,116690,"Maternal Father","In the United States","Los Alamos",NM,USA
+40,116690,"Maternal Mother","In the United States","Los Alamos",NM,USA
+40,116690,"Paternal Father",Unknown,,,
+40,116690,"Paternal Mother",Unknown,,,
+61,118474,,,,,
+67,109181,,,,,
+96,131924,,,,,
+100,130570,,,,,
+106,117737,,,,,
+111,140856,,,,,
+114,124357,Mother,"In the United States",Albuquerque,NM,USA
+114,124357,Father,"In the United States",Albuquerque,NM,USA
+114,124357,"Maternal Father","In the United States",,NM,USA
+114,124357,"Maternal Mother","In the United States",Clovis,NM,USA
+114,124357,"Paternal Father","In the United States",Albuquerque,NM,USA
+114,124357,"Paternal Mother","In the United States",Albuquerque,NM,USA
+143,131917,,,,,
+252,116553,,,,,
+338,127850,,,,,
+345,104614,,,,,
+351,123112,,,,,
+421,106118,,,,,
+452,129952,,,,,
+453,136300,,,,,
+475,118893,,,,,
+497,105502,Mother,"In the United States",Tucumcari,NM,USA
+497,105502,Father,"In the United States","Las Vegas",NM,USA
+497,105502,"Maternal Father","In Mexico",,,MEX
+497,105502,"Maternal Mother","In Mexico",,,MEX
+497,105502,"Paternal Father","In the United States",,NM,USA
+497,105502,"Paternal Mother","In the United States",,NM,USA
+498,117375,,,,,
+539,126929,,,,,
+567,126500,,,,,
+590,111619,,,,,
+639,116425,,,,,
+641,121093,,,,,
+667,126375,,,,,
+672,137166,,,,,
+687,100555,,,,,
+780,121370,,,,,
+785,131139,,,,,
+812,119992,Mother,"In the United States",,OK,USA
+812,119992,Father,"In the United States",Almogordo,NM,USA
+812,119992,"Maternal Father","In the United States",Mescalero,NM,USA
+812,119992,"Maternal Mother","In the United States",Mescalero,NM,USA
+812,119992,"Paternal Father","In the United States",Mescalero,NM,USA
+812,119992,"Paternal Mother","In the United States",Mescalero,NM,USA
+823,118702,,,,,
+854,138311,,,,,
+861,114998,,,,,
+911,128418,,,,,
+927,128005,,,,,
+937,139440,,,,,
+944,140501,,,,,
+957,120806,,,,,
+998,100012,,,,,
+1002,126276,,,,,
+1006,120348,Mother,"In the United States",Gallup,NM,USA
+1006,120348,Father,"In the United States","Window Rock",AZ,USA
+1006,120348,"Maternal Father","In the United States",Gallup,NM,USA
+1006,120348,"Maternal Mother","In the United States",Gallup,NM,USA
+1006,120348,"Paternal Father","In the United States","Window Rock",AZ,USA
+1006,120348,"Paternal Mother","In the United States","Window Rock",AZ,USA
+1007,118155,,,,,
+1018,128490,,,,,
+1019,131855,,,,,
+1055,122008,,,,,
+1089,109986,,,,,
+1107,100084,,,,,
+1140,110866,,,,,
+1152,121911,,,,,
+1190,122685,,,,,
+1260,130577,,,,,
+1283,126295,,,,,
+1327,120868,,,,,
+1328,124957,,,,,
+1426,106171,,,,,
+1443,139096,,,,,
+1448,106468,,,,,
+1496,137807,,,,,
+1503,137620,,,,,
+1516,109960,,,,,
+1560,114088,,,,,
+1652,105859,,,,,
+1657,108023,,,,,
+1691,107935,Mother,Unknown,,,
+1691,107935,Father,Unknown,,,
+1691,107935,"Maternal Father",Unknown,,,
+1691,107935,"Maternal Mother",Unknown,,,
+1691,107935,"Paternal Father",Unknown,,,
+1691,107935,"Paternal Mother",Unknown,,,
+1697,138515,,,,,
+1726,122649,,,,,
+1738,125975,,,,,
+1770,114636,,,,,
+1771,103241,,,,,
+1827,116676,,,,,
+1835,115845,,,,,
+1908,113890,Mother,"In Mexico","Cd. Juarez",Chihuahua,MEX
+1908,113890,Father,"In Mexico",,Durango,MEX
+1908,113890,"Maternal Father","In Mexico","Cd. Juarez",Chihuahua,MEX
+1908,113890,"Maternal Mother","In Mexico","Gomez Palacio",Durango,MEX
+1908,113890,"Paternal Father","In Mexico",,Durango,MEX
+1908,113890,"Paternal Mother","In Mexico",,Durango,MEX
+1949,125259,,,,,
+1955,112246,,,,,
+1972,109143,,,,,
+2003,114731,,,,,
+2100,102717,,,,,
+2131,119173,,,,,
+2211,124467,,,,,
+2225,136560,,,,,
+2230,114320,,,,,
+2248,109887,,,,,
+2284,131183,,,,,
+2286,100404,,,,,
+2287,114436,,,,,
+2307,107847,,,,,
+2319,138437,,,,,
+2332,137170,,,,,
+2351,131270,,,,,
+2352,128158,,,,,
+2353,132772,,,,,
+2355,124056,,,,,
+2359,127186,,,,,
+2386,119880,,,,,
+2402,116917,,,,,
+2445,101854,,,,,
+2461,126174,,,,,
+2515,120573,,,,,
+2531,127911,,,,,
+2557,123383,,,,,
+2558,112231,,,,,
+2565,122426,,,,,
+2580,123418,Mother,"In the United States",Quincy,IL,USA
+2580,123418,Father,"In the United States",Albuquerque,NM,USA
+2580,123418,"Maternal Father","In the United States",Quincy,IL,USA
+2580,123418,"Maternal Mother","In the United States",,PA,USA
+2580,123418,"Paternal Father","In Mexico",,,MEX
+2580,123418,"Paternal Mother","In the United States",Albuquerque,NM,USA
+2620,106974,,,,,
+2634,129086,Mother,"In the United States",Albuquerque,NM,USA
+2634,129086,Father,"In the United States",,NM,USA
+2634,129086,"Maternal Father","In the United States",,NM,USA
+2634,129086,"Maternal Mother","In the United States",,NM,USA
+2634,129086,"Paternal Father","In the United States",,NM,USA
+2634,129086,"Paternal Mother","In the United States",,NM,USA
+2640,109582,,,,,
+2645,106672,,,,,
+2703,109258,,,,,
+2714,129972,,,,,
+2724,113975,,,,,
+2736,129278,,,,,
+2764,140828,,,,,
+2864,136812,,,,,
+2892,110562,Mother,"In the United States",Modesto,CA,USA
+2892,110562,Father,"In the United States",Albuquerque,NM,USA
+2892,110562,"Maternal Father","In the United States",,CA,USA
+2892,110562,"Maternal Mother","In the United States",Tucumcari,NM,USA
+2892,110562,"Paternal Father","In the United States",,,
+2892,110562,"Paternal Mother","In the United States",,,
+2899,114774,,,,,
+2936,134309,,,,,
+2941,119597,,,,,
+2970,125749,,,,,
+3016,101017,,,,,
+3036,116888,,,,,
+3043,133669,,,,,
+3096,135745,,,,,
+3124,111347,,,,,
+3129,139933,,,,,
+3153,124284,,,,,
+3224,133659,,,,,
+3281,126762,,,,,
+3287,114468,,,,,
+3293,106485,Mother,"In the United States",Olympia,WA,USA
+3293,106485,Father,"In the United States",Castville,WI,USA
+3293,106485,"Maternal Father","In the United States",,WA,USA
+3293,106485,"Maternal Mother","In the United States",Olympia,WA,USA
+3293,106485,"Paternal Father","In the United States",,WI,USA
+3293,106485,"Paternal Mother","In the United States",,WI,USA
+3335,110639,,,,,
+3355,133615,,,,,
+3365,129191,,,,,
+3368,113487,Mother,"Outside the United States and Mexico",,,CRI
+3368,113487,Father,"Outside the United States and Mexico",,,CRI
+3368,113487,"Maternal Father","Outside the United States and Mexico",,,CRI
+3368,113487,"Maternal Mother","Outside the United States and Mexico",,,CRI
+3368,113487,"Paternal Father","Outside the United States and Mexico",,,CRI
+3368,113487,"Paternal Mother","Outside the United States and Mexico",,,CRI
+3394,124647,,,,,
+3402,131697,,,,,
+3410,134336,,,,,
+3426,134721,,,,,
+3432,132975,,,,,
+3447,123813,Mother,"In the United States",Albuquerque,NM,USA
+3447,123813,Father,Unknown,,,
+3447,123813,"Maternal Father",Unknown,,,
+3447,123813,"Maternal Mother","In the United States",,NM,USA
+3447,123813,"Paternal Father",Unknown,,,
+3447,123813,"Paternal Mother",Unknown,,,
+3524,129053,,,,,
+3529,119621,,,,,
+3552,111880,Mother,"In the United States",,NM,USA
+3552,111880,Father,"In the United States",,,
+3552,111880,"Maternal Father","In the United States",,NM,USA
+3552,111880,"Maternal Mother","In the United States",,NM,USA
+3552,111880,"Paternal Father",Unknown,,,
+3552,111880,"Paternal Mother",Unknown,,,
+3575,118103,,,,,
+3615,123683,,,,,
+3649,136710,,,,,
+3658,125720,,,,,
+3663,116995,,,,,
+3665,110385,,,,,
+3690,101226,,,,,
+3725,106754,Mother,"In the United States",Albuquerque,NM,USA
+3725,106754,Father,"In the United States",Grants,NM,USA
+3725,106754,"Maternal Father","In the United States",Crownpoint,NM,USA
+3725,106754,"Maternal Mother","In the United States",,NM,USA
+3725,106754,"Paternal Father","In the United States",Cochiti,NM,USA
+3725,106754,"Paternal Mother","In the United States",Acoma,NM,USA
+3726,117757,,,,,
+3754,131265,,,,,
+3814,129917,,,,,
+3840,133812,,,,,
+3855,130363,,,,,
+3869,100330,Mother,"In the United States",Cuba,NM,USA
+3869,100330,Father,"In the United States",Espanola,NM,USA
+3869,100330,"Maternal Father","In the United States",,,
+3869,100330,"Maternal Mother","In the United States",,,
+3869,100330,"Paternal Father","In the United States",,NM,USA
+3869,100330,"Paternal Mother","In the United States",,NM,USA
+3932,126034,Mother,"In the United States",,CA,USA
+3932,126034,Father,"In the United States",,CA,USA
+3932,126034,"Maternal Father","In the United States",,CA,USA
+3932,126034,"Maternal Mother","In the United States",,CA,USA
+3932,126034,"Paternal Father","In the United States",,CA,USA
+3932,126034,"Paternal Mother","In the United States",,CA,USA
+3980,138131,,,,,
+3984,134790,,,,,
+3999,113158,,,,,
+4029,126338,,,,,
+4035,120619,,,,,
+4052,132464,,,,,
+4074,136168,,,,,
+4093,106817,,,,,
+4102,113518,,,,,
+4244,119072,,,,,
+4246,101875,,,,,
+4277,118348,,,,,
+4313,124292,,,,,
+4322,133435,,,,,
+4325,134488,,,,,
+4343,137990,Mother,"Outside the United States and Mexico",Langenfeld,,DEU
+4343,137990,Father,"In the United States",Lowell,MA,USA
+4343,137990,"Maternal Father",Unknown,,,
+4343,137990,"Maternal Mother","Outside the United States and Mexico",,,DEU
+4343,137990,"Paternal Father","In the United States",Boston,MA,USA
+4343,137990,"Paternal Mother","In the United States",Boston,MA,USA
+4357,126002,,,,,
+4370,123656,,,,,
+4403,103066,Mother,"In the United States","Del Rio",TX,USA
+4403,103066,Father,"In the United States","Las Cruces",NM,USA
+4403,103066,"Maternal Father","In the United States","Del Rio",TX,USA
+4403,103066,"Maternal Mother","In the United States","Del Rio",TX,USA
+4403,103066,"Paternal Father","Outside the United States and Mexico",,,DEU
+4403,103066,"Paternal Mother","In Mexico",,,MEX
+4410,139054,,,,,
+4416,119379,,,,,
+4473,119219,,,,,
+4491,134906,,,,,
+4492,112839,,,,,
+4505,134580,,,,,
+4552,130077,Mother,"In the United States",,LA,USA
+4552,130077,Father,"In the United States",,CO,USA
+4552,130077,"Maternal Father","In the United States",Denver,CO,USA
+4552,130077,"Maternal Mother","In the United States",Columbus,GA,USA
+4552,130077,"Paternal Father","In the United States",,CA,USA
+4552,130077,"Paternal Mother","In the United States",,WA,USA
+4562,130712,,,,,
+4563,118172,Mother,"In the United States","Las Vegas",NM,USA
+4563,118172,Father,"In the United States","Los Alamos",NM,USA
+4563,118172,"Maternal Father","In the United States",Villanueva,NM,USA
+4563,118172,"Maternal Mother",Unknown,,,
+4563,118172,"Paternal Father","In the United States",Chama,NM,USA
+4563,118172,"Paternal Mother","In the United States",Ruidoso,NM,USA
+4627,132977,,,,,
+4640,117174,,,,,
+4641,125410,,,,,
+4653,101797,,,,,
+4654,124770,,,,,
+4678,102101,,,,,
+4699,101740,,,,,
+4748,109893,,,,,
+4807,112356,,,,,
+4834,122422,,,,,
+4967,124119,,,,,
+5020,117360,,,,,
+5097,131380,,,,,
+5128,127455,,,,,
+5180,137088,,,,,
+5192,102345,,,,,
+5281,117444,,,,,
+5310,127126,,,,,
+5316,134959,,,,,
+5350,118790,,,,,
+5362,119082,,,,,
+5368,123714,,,,,
+5378,118377,,,,,
+5379,124397,,,,,
+5380,101451,,,,,
+5467,104011,,,,,
+5549,107138,,,,,
+5592,120429,,,,,
+5597,117338,,,,,
+5620,121316,,,,,
+5876,138040,,,,,
+5931,134151,,,,,
+5934,106783,,,,,
+6010,134516,,,,,
+6025,132505,,,,,
+6058,111459,,,,,
+6107,112200,,,,,
+6136,100479,,,,,
+6185,126401,,,,,
+6217,123116,,,,,
+6220,104730,Mother,"In Mexico","Agua Prieta",Sonora,MEX
+6220,104730,Father,"In Mexico","Agua Prieta",Sonora,MEX
+6220,104730,"Maternal Father","In Mexico","Agua Prieta",Sonora,MEX
+6220,104730,"Maternal Mother","In Mexico","Agua Prieta",Sonora,MEX
+6220,104730,"Paternal Father",Unknown,,,
+6220,104730,"Paternal Mother","In Mexico","Agua Prieta",Sonora,MEX
+6256,133875,,,,,
+6397,116143,,,,,
+6398,105042,,,,,
+6431,109364,,,,,
+6434,118089,,,,,
+6537,131117,,,,,
+6627,138222,,,,,
+6634,121334,,,,,
+6658,126716,,,,,
+6708,120564,,,,,
+6763,119356,,,,,
+6784,116034,,,,,
+6808,107776,,,,,
+6831,100287,,,,,
+6848,133203,,,,,
+6880,109909,,,,,
+6894,123618,,,,,
+7008,105739,,,,,
+7017,126949,,,,,
+7046,111997,,,,,
+7238,136784,,,,,
+7256,136653,,,,,
+7365,136645,,,,,
+7374,139509,,,,,
+7378,107992,,,,,
+7405,130343,,,,,
+7461,113544,,,,,
+7473,130045,,,,,
+7494,106506,,,,,
+7502,131485,,,,,
+7503,135199,,,,,
+7592,127122,,,,,
+7674,127316,,,,,
+7780,106786,,,,,
+7833,126185,,,,,
+7853,131021,,,,,
+7866,105699,,,,,
+7907,117628,,,,,
+7950,107786,,,,,
+7989,111442,,,,,
+8063,105378,,,,,
+8078,129054,,,,,
+8127,104676,,,,,
+8176,117418,,,,,
+8309,121990,,,,,
+8433,135142,,,,,
+8509,116077,,,,,
+8563,106677,,,,,
+8599,132133,,,,,
+8639,112778,,,,,
+8649,105918,,,,,
+8659,102148,,,,,
+8696,128110,,,,,
+8710,120568,,,,,
+8735,135964,,,,,
+8742,115082,,,,,
+8769,122397,,,,,
+8784,119860,,,,,
+8788,106671,,,,,
+8803,105007,,,,,
+8905,108524,,,,,
+8928,108153,,,,,
+8932,108961,,,,,
+9069,123077,,,,,
+9113,103938,,,,,
+9114,113033,Mother,"In the United States",,CA,USA
+9114,113033,Father,"In the United States",,CA,USA
+9114,113033,"Maternal Father","In the United States",,,
+9114,113033,"Maternal Mother","In the United States",,KY,USA
+9114,113033,"Paternal Father","In the United States",,,
+9114,113033,"Paternal Mother","In the United States",,CA,USA
+9183,105462,,,,,
+9257,101046,,,,,
+9315,137112,,,,,
+9325,130688,,,,,
+9346,134873,Mother,"In the United States",Albuquerque,NM,USA
+9346,134873,Father,"In the United States",Albuquerque,NM,USA
+9346,134873,"Maternal Father","In the United States",Albuquerque,NM,USA
+9346,134873,"Maternal Mother","In the United States","El Paso",TX,USA
+9346,134873,"Paternal Father","In Mexico",,Chihuahua,MEX
+9346,134873,"Paternal Mother","In the United States",Albuquerque,NM,USA
+9359,126780,,,,,
+9360,135654,,,,,
+9415,127657,,,,,
+9437,101011,,,,,
+9438,122960,,,,,
+9442,140440,Mother,"In the United States",Shiprock,NM,USA
+9442,140440,Father,"In the United States",Gallup,NM,USA
+9442,140440,"Maternal Father","In the United States",Shiprock,NM,USA
+9442,140440,"Maternal Mother","In the United States",Shiprock,NM,USA
+9442,140440,"Paternal Father","In the United States",,AZ,USA
+9442,140440,"Paternal Mother","In the United States",,AZ,USA
+9469,128068,,,,,
+9511,112442,,,,,
+9513,124016,,,,,
+9516,110163,,,,,
+9547,131477,,,,,
+9562,100195,,,,,
+9582,103712,,,,,
+9583,126032,,,,,
+9596,132394,,,,,
+9650,118210,,,,,
+9671,139910,,,,,
+9724,140723,,,,,
+9829,134054,,,,,
+9838,125579,,,,,
+9844,131392,,,,,
+9931,118016,,,,,
+9939,103540,,,,,
+9966,107172,,,,,
+9977,113360,,,,,
+10034,137919,,,,,
+10070,105469,,,,,
+10081,117432,,,,,
+10135,134032,,,,,
+10143,121073,,,,,
+10175,129646,,,,,
+10208,129915,,,,,
+10234,136129,,,,,
+10240,128792,,,,,
+10269,124127,,,,,
+10386,120886,,,,,
+10390,124552,Mother,"In the United States",Carlsbad,NM,USA
+10390,124552,Father,"In the United States",Carlsbad,NM,USA
+10390,124552,"Maternal Father","In the United States",Artesia,NM,USA
+10390,124552,"Maternal Mother","In the United States",Carlsbad,NM,USA
+10390,124552,"Paternal Father","In the United States",,NM,USA
+10390,124552,"Paternal Mother","In the United States",Carlsbad,NM,USA
+10418,117109,,,,,
+10428,117042,,,,,
+10439,116475,,,,,
+10494,118115,,,,,
+10496,140253,,,,,
+10514,138917,,,,,
+10616,105785,,,,,
+10623,110833,,,,,
+10651,111866,,,,,
+10736,113578,,,,,
+10737,131353,,,,,
+10741,127041,,,,,
+10743,131206,,,,,
+10759,113974,,,,,
+10796,134475,,,,,
+10816,128073,,,,,
+10822,141011,,,,,
+10851,120819,,,,,
+10879,102564,,,,,
+10908,137543,,,,,
+10909,127283,,,,,
+10912,111473,,,,,
+10935,101285,,,,,
+10959,103435,,,,,
+11049,117213,,,,,
+11123,112307,,,,,
+11143,111920,,,,,
+11205,118247,,,,,
+11210,102698,,,,,
+11219,141089,,,,,
+11281,100089,,,,,
+11297,118253,Mother,"In the United States",Espanola,NM,USA
+11297,118253,Father,"In the United States",Espanola,NM,USA
+11297,118253,"Maternal Father","In the United States",Espanola,NM,USA
+11297,118253,"Maternal Mother","In the United States",Espanola,NM,USA
+11297,118253,"Paternal Father","In the United States","San Juan",NM,USA
+11297,118253,"Paternal Mother","In the United States",,CO,USA
+11384,124482,,,,,
+11387,140500,Mother,"In the United States","Fort Worth",TX,USA
+11387,140500,Father,"In the United States",Greeley,CO,USA
+11387,140500,"Maternal Father","In the United States",Birmingham,AL,USA
+11387,140500,"Maternal Mother","In the United States",Franklin,NC,USA
+11387,140500,"Paternal Father",Unknown,,,
+11387,140500,"Paternal Mother",Unknown,,,
+11409,110917,,,,,
+11441,113028,,,,,
+11465,110360,,,,,
+11517,140776,,,,,
+11522,134170,,,,,
+11526,126273,,,,,
+11527,128998,,,,,
+11552,111067,,,,,
+11566,104587,,,,,
+11589,104862,,,,,
+11607,115804,,,,,
+11646,118425,,,,,
+11650,137469,,,,,
+11664,131218,,,,,
+11672,126987,,,,,
+11697,100279,,,,,
+11723,101314,,,,,
+11778,108463,,,,,
+11845,132136,,,,,
+11872,104686,,,,,
+11892,108225,,,,,
+11902,102241,,,,,
+11987,141048,,,,,
+12011,119363,,,,,
+12017,114841,,,,,
+12096,111488,,,,,
+12097,126140,,,,,
+12162,100703,,,,,
+12176,114745,,,,,
+12226,124328,,,,,
+12241,136534,,,,,
+12262,136506,,,,,
+12276,117435,,,,,
+12290,129412,,,,,
+12303,132725,,,,,
+12318,138632,,,,,
+12339,110959,,,,,
+12343,122225,,,,,
+12381,105668,,,,,
+12397,111463,,,,,
+12480,137263,,,,,
+12530,120208,,,,,
+12600,131842,Mother,"In the United States",Shiprock,NM,USA
+12600,131842,Father,"In the United States",,NM,USA
+12600,131842,"Maternal Father","In the United States",,AZ,USA
+12600,131842,"Maternal Mother","In the United States",,NM,USA
+12600,131842,"Paternal Father","In the United States",,NM,USA
+12600,131842,"Paternal Mother","In the United States",,AZ,USA
+12668,120622,,,,,
+12677,140658,,,,,
+12680,123790,,,,,
+12773,122335,,,,,
+12775,119732,,,,,
+12832,134893,,,,,
+12833,119553,,,,,
+12836,115293,,,,,
+12944,128907,,,,,
+13039,123570,,,,,
+13061,109404,,,,,
+13067,102470,,,,,
+13076,139733,,,,,
+13088,109194,,,,,
+13101,107495,,,,,
+13103,104464,,,,,
+13129,135456,,,,,
+13172,132898,,,,,
+13255,125003,,,,,
+13282,134193,,,,,
+13316,116146,,,,,
+13394,108330,,,,,
+13456,113077,,,,,
+13475,105153,,,,,
+13489,126383,,,,,
+13518,119813,,,,,
+13530,103326,,,,,
+13593,137993,Mother,"In the United States",Shiprock,NM,USA
+13593,137993,Father,"In the United States","Sioux City",IA,USA
+13593,137993,"Maternal Father","In the United States",,NM,USA
+13593,137993,"Maternal Mother","In the United States",,NM,USA
+13593,137993,"Paternal Father","In the United States",,NE,USA
+13593,137993,"Paternal Mother","In the United States",,NE,USA
+13636,119851,,,,,
+13637,123001,Mother,"In the United States",Shiprock,NM,USA
+13637,123001,Father,"In the United States",Farmington,NM,USA
+13637,123001,"Maternal Father","In the United States",Shiprock,NM,USA
+13637,123001,"Maternal Mother","In the United States",Shiprock,NM,USA
+13637,123001,"Paternal Father","In the United States",Farmington,NM,USA
+13637,123001,"Paternal Mother","In the United States",Farmington,NM,USA
+13639,118452,Mother,"In the United States",Albuquerque,NM,USA
+13639,118452,Father,"In the United States",Roswell,NM,MEX
+13639,118452,"Maternal Father","In the United States",Albuquerque,NM,USA
+13639,118452,"Maternal Mother","In the United States",Albuquerque,NM,USA
+13639,118452,"Paternal Father","In the United States",Roswell,NM,USA
+13639,118452,"Paternal Mother","In the United States",Roswell,NM,USA
+13682,131622,,,,,
+13716,128166,,,,,
+13785,134483,,,,,
+13836,100861,Mother,"In the United States","Long Beach",CA,USA
+13836,100861,Father,"In the United States","New Orleans",LA,USA
+13836,100861,"Maternal Father","In the United States",Foley,LA,USA
+13836,100861,"Maternal Mother","In the United States",Clovis,NM,USA
+13836,100861,"Paternal Father","In the United States","New Orleans",LA,USA
+13836,100861,"Paternal Mother","In the United States",Paulding,MS,USA
+13871,111131,,,,,
+13874,108559,,,,,
+13969,100573,,,,,
+13974,134922,Mother,"In the United States","Santa Fe",NM,USA
+13974,134922,Father,"In the United States","Santa Fe",NM,USA
+13974,134922,"Maternal Father","In the United States","Santa Fe",NM,USA
+13974,134922,"Maternal Mother","In the United States","Santa Fe",NM,USA
+13974,134922,"Paternal Father","In the United States","Santa Fe",NM,USA
+13974,134922,"Paternal Mother","In the United States","Santa Fe",NM,USA
+13994,134292,,,,,
+14027,120928,Mother,"In the United States",Glendale,CA,USA
+14027,120928,Father,"In the United States","Santa Fe",NM,USA
+14027,120928,"Maternal Father","In the United States",Chicago,IL,USA
+14027,120928,"Maternal Mother","In the United States",,IA,USA
+14027,120928,"Paternal Father","In the United States",,NM,USA
+14027,120928,"Paternal Mother","In the United States","San Felipe",NM,USA
+14053,127790,Mother,"In the United States",,IL,USA
+14053,127790,Father,"In the United States",,PA,USA
+14053,127790,"Maternal Father","In the United States",,TX,USA
+14053,127790,"Maternal Mother","Outside the United States and Mexico",,,DEU
+14053,127790,"Paternal Father","In the United States",,PA,USA
+14053,127790,"Paternal Mother","In the United States",,PA,USA
+14110,107726,,,,,
+14123,137292,,,,,
+14124,138153,,,,,
+14192,135639,,,,,
+14195,109816,,,,,
+14220,102256,,,,,
+14256,136482,Mother,"In the United States",,AZ,USA
+14256,136482,Father,"In the United States",Albuquerque,NM,USA
+14256,136482,"Maternal Father","In the United States",,UT,USA
+14256,136482,"Maternal Mother","In the United States",,UT,USA
+14256,136482,"Paternal Father","In the United States",,NM,USA
+14256,136482,"Paternal Mother","In the United States",,NM,USA
+14303,128812,,,,,
+14340,108773,,,,,
+14374,103134,,,,,
+14383,131326,,,,,
+14386,106561,,,,,
+14389,106578,,,,,
+14401,126246,,,,,
+14427,111780,,,,,
+14433,132750,,,,,
+14505,122565,,,,,
+14554,131438,Mother,"In the United States",Albuquerque,NM,USA
+14554,131438,Father,"In the United States",Albuquerque,NM,USA
+14554,131438,"Maternal Father","In the United States",,OK,USA
+14554,131438,"Maternal Mother","In the United States","Lake Charles",LA,USA
+14554,131438,"Paternal Father","In the United States",,NM,USA
+14554,131438,"Paternal Mother","In the United States",,NM,USA
+14593,105881,,,,,
+14599,106655,,,,,
+14605,139474,,,,,
+14611,129508,,,,,
+14627,134689,,,,,
+14685,135642,,,,,
+14686,125004,,,,,
+14713,126750,,,,,
+14724,126913,,,,,
+14725,135739,,,,,
+14735,111243,,,,,
+14783,140258,,,,,
+14794,140675,,,,,
+14936,123453,,,,,
+14940,127281,,,,,
+14977,113755,,,,,
+14979,125479,,,,,
+15060,138136,,,,,
+15093,121515,,,,,
+15128,139559,,,,,
+15160,128679,,,,,
+15169,101819,,,,,
+15192,126802,,,,,
+15205,136759,,,,,
+15228,123393,,,,,
+15230,129423,,,,,
+15251,100035,,,,,

@@ -1,0 +1,804 @@
+id,deidentified_record_number,medical_history_type,medical_history_detail
+33,135532,,
+34,137511,,
+40,116690,,
+61,118474,,
+67,109181,,
+96,131924,Diagnosis,Other
+100,130570,,
+106,117737,Diagnosis,"Diabetes Type I"
+111,140856,,
+114,124357,Implant,None
+114,124357,Surgery,None
+114,124357,"Broken Bone",None
+114,124357,"Facial Trauma",None
+114,124357,"Plastic Surgery",None
+114,124357,Diagnosis,None
+114,124357,"Dental Adult",Healthy
+114,124357,"Dental Child",Healthy
+114,124357,Scoliosis,Absent
+143,131917,,
+252,116553,,
+338,127850,,
+345,104614,,
+351,123112,Diagnosis,"Mental illness"
+421,106118,,
+452,129952,,
+453,136300,,
+475,118893,,
+497,105502,Implant,"Implant, type unknown"
+497,105502,Surgery,"Head "
+497,105502,Surgery,Thorax
+497,105502,"Broken Bone",None
+497,105502,Diagnosis,None
+497,105502,Scoliosis,Present
+498,117375,,
+539,126929,,
+567,126500,Diagnosis,Asthma
+590,111619,,
+639,116425,,
+641,121093,,
+667,126375,,
+672,137166,,
+687,100555,,
+780,121370,,
+785,131139,,
+812,119992,Surgery,None
+812,119992,Scoliosis,Absent
+823,118702,,
+854,138311,Diagnosis,Other
+854,138311,Diagnosis,"Non-epileptic seizures"
+861,114998,,
+911,128418,Surgery,Thorax
+911,128418,"Facial Trauma","Trauma to lower face- anterior nasal spine and below"
+911,128418,Diagnosis,Schizophrenia
+927,128005,Diagnosis,Unknown
+937,139440,Diagnosis,Unknown
+944,140501,Diagnosis,Unknown
+957,120806,Surgery,Legs
+957,120806,Surgery,Thorax
+998,100012,,
+1002,126276,,
+1006,120348,Implant,"Implant, type unknown"
+1006,120348,Surgery,Thorax
+1006,120348,Surgery,Unknown
+1006,120348,"Broken Bone",None
+1006,120348,"Facial Trauma","Trauma to upper face- hairline to glabella"
+1006,120348,"Plastic Surgery","Plastic surgery- Reconstructive surgery"
+1006,120348,Diagnosis,"Mental illness"
+1006,120348,Diagnosis,Other
+1006,120348,"Dental Adult","Dental cavities"
+1006,120348,"Dental Child",Healthy
+1006,120348,"Radiation Therapy",No
+1006,120348,Scoliosis,Absent
+1007,118155,,
+1018,128490,Diagnosis,"Mental illness"
+1019,131855,Diagnosis,Unknown
+1055,122008,,
+1089,109986,,
+1107,100084,,
+1140,110866,,
+1152,121911,,
+1190,122685,,
+1260,130577,,
+1283,126295,,
+1327,120868,,
+1328,124957,Diagnosis,"Mental illness"
+1426,106171,,
+1443,139096,,
+1448,106468,"Broken Bone",Arm
+1448,106468,"Broken Bone",Wrist/hand
+1448,106468,"Broken Bone",Neck
+1448,106468,"Broken Bone",Head
+1448,106468,"Facial Trauma","Trauma to upper face- hairline to glabella"
+1448,106468,"Facial Trauma","Trauma to lower face- anterior nasal spine and below"
+1496,137807,,
+1503,137620,,
+1516,109960,,
+1560,114088,Diagnosis,Other
+1652,105859,,
+1657,108023,,
+1691,107935,Implant,None
+1691,107935,Surgery,Arms
+1691,107935,Surgery,Thorax
+1691,107935,Surgery,Unknown
+1691,107935,"Broken Bone",Unknown
+1691,107935,"Facial Trauma","trauma to face, area unknown"
+1691,107935,"Plastic Surgery",Unknown
+1691,107935,Diagnosis,"Mental illness"
+1691,107935,Diagnosis,Other
+1691,107935,"Dental Adult",Healthy
+1691,107935,"Dental Child",Healthy
+1691,107935,Scoliosis,Absent
+1697,138515,,
+1726,122649,Surgery,"Head "
+1726,122649,"Broken Bone",Arm
+1726,122649,Diagnosis,"Mental illness"
+1726,122649,Diagnosis,"Non-epileptic seizures"
+1738,125975,,
+1770,114636,,
+1771,103241,,
+1827,116676,Diagnosis,Other
+1835,115845,,
+1908,113890,Implant,None
+1908,113890,Surgery,None
+1908,113890,"Broken Bone",None
+1908,113890,"Facial Trauma",None
+1908,113890,"Plastic Surgery",None
+1908,113890,Diagnosis,None
+1908,113890,"Dental Adult",Healthy
+1908,113890,"Dental Child",Healthy
+1908,113890,Scoliosis,Absent
+1949,125259,,
+1955,112246,Surgery,Thorax
+1972,109143,Diagnosis,"Mental illness"
+2003,114731,,
+2100,102717,,
+2131,119173,,
+2211,124467,,
+2225,136560,,
+2230,114320,,
+2248,109887,Diagnosis,"Non-epileptic seizures"
+2284,131183,,
+2286,100404,,
+2287,114436,,
+2307,107847,Diagnosis,"Mental illness"
+2307,107847,Diagnosis,Hypertension
+2319,138437,Surgery,"Head "
+2332,137170,,
+2351,131270,,
+2352,128158,,
+2353,132772,,
+2355,124056,,
+2359,127186,,
+2386,119880,,
+2402,116917,,
+2445,101854,,
+2461,126174,,
+2515,120573,,
+2531,127911,,
+2557,123383,,
+2558,112231,,
+2565,122426,Diagnosis,Other
+2580,123418,Surgery,Thorax
+2620,106974,Surgery,Thorax
+2634,129086,Implant,None
+2634,129086,Surgery,None
+2634,129086,"Broken Bone",None
+2634,129086,"Facial Trauma",None
+2634,129086,"Plastic Surgery",None
+2634,129086,Diagnosis,"Non-epileptic seizures"
+2634,129086,"Dental Adult",Healthy
+2634,129086,"Dental Child",Healthy
+2634,129086,"Radiation Therapy",No
+2634,129086,Scoliosis,Absent
+2640,109582,,
+2645,106672,,
+2703,109258,,
+2714,129972,Diagnosis,"Mental illness"
+2724,113975,,
+2736,129278,Diagnosis,"Mental illness"
+2764,140828,,
+2864,136812,,
+2892,110562,Surgery,"Head "
+2892,110562,"Broken Bone",None
+2892,110562,"Facial Trauma",None
+2892,110562,"Dental Child",Healthy
+2892,110562,"Radiation Therapy",No
+2892,110562,Scoliosis,Absent
+2899,114774,,
+2936,134309,,
+2941,119597,,
+2970,125749,Implant,"Birth control"
+3016,101017,Surgery,"Head "
+3016,101017,Diagnosis,None
+3036,116888,,
+3043,133669,,
+3096,135745,"Broken Bone",Arm
+3096,135745,"Broken Bone",Leg
+3096,135745,"Broken Bone",Head
+3096,135745,"Facial Trauma","Trauma to upper face- hairline to glabella"
+3124,111347,,
+3129,139933,"Broken Bone",Head
+3129,139933,"Facial Trauma","Trauma to middle face-glabella to anterior nasal spine"
+3129,139933,Diagnosis,"Mental illness"
+3153,124284,,
+3224,133659,,
+3281,126762,,
+3287,114468,,
+3293,106485,Implant,None
+3293,106485,Surgery,Arms
+3293,106485,"Broken Bone",None
+3293,106485,"Facial Trauma",None
+3293,106485,"Dental Child","Dental cavities"
+3293,106485,"Radiation Therapy",No
+3293,106485,Scoliosis,Absent
+3335,110639,Diagnosis,"Mental illness"
+3355,133615,,
+3365,129191,,
+3368,113487,Surgery,Thorax
+3368,113487,"Broken Bone",None
+3368,113487,"Facial Trauma",None
+3368,113487,"Plastic Surgery",None
+3368,113487,Diagnosis,Asthma
+3368,113487,"Dental Adult",Healthy
+3368,113487,"Dental Child",Healthy
+3368,113487,"Radiation Therapy",No
+3368,113487,Scoliosis,Absent
+3394,124647,,
+3402,131697,,
+3410,134336,,
+3426,134721,"Facial Trauma","trauma to face, area unknown"
+3426,134721,Diagnosis,"Autoimmune diseases"
+3432,132975,,
+3447,123813,"Broken Bone",None
+3447,123813,Diagnosis,Epilepsy
+3524,129053,,
+3529,119621,,
+3552,111880,Implant,None
+3552,111880,Surgery,Thorax
+3552,111880,"Broken Bone",None
+3552,111880,"Facial Trauma",None
+3552,111880,"Plastic Surgery",None
+3552,111880,Diagnosis,None
+3552,111880,"Dental Adult",Healthy
+3552,111880,"Dental Child",Healthy
+3552,111880,"Radiation Therapy",No
+3552,111880,Scoliosis,Absent
+3575,118103,,
+3615,123683,,
+3649,136710,,
+3658,125720,,
+3663,116995,,
+3665,110385,,
+3690,101226,"Facial Trauma","Trauma to upper face- hairline to glabella"
+3725,106754,Implant,None
+3725,106754,Surgery,None
+3725,106754,"Broken Bone",None
+3725,106754,"Facial Trauma",None
+3725,106754,"Plastic Surgery",None
+3725,106754,Diagnosis,"Mental illness"
+3725,106754,"Dental Child",Healthy
+3725,106754,Scoliosis,Absent
+3726,117757,Diagnosis,"Mental illness"
+3754,131265,,
+3814,129917,,
+3840,133812,,
+3855,130363,Implant,"Implant, type unknown"
+3855,130363,Surgery,Thorax
+3855,130363,"Plastic Surgery","Plastic surgery-Congenital defect repair"
+3855,130363,Diagnosis,Asthma
+3869,100330,Implant,None
+3869,100330,Surgery,None
+3869,100330,"Broken Bone",Head
+3869,100330,"Broken Bone",None
+3869,100330,"Facial Trauma","Trauma to upper face- hairline to glabella"
+3869,100330,"Facial Trauma","Trauma to middle face-glabella to anterior nasal spine"
+3869,100330,"Plastic Surgery","Plastic surgery- Reconstructive surgery"
+3869,100330,Diagnosis,None
+3869,100330,"Dental Adult",Healthy
+3869,100330,"Dental Child",Healthy
+3869,100330,"Radiation Therapy",No
+3869,100330,Scoliosis,Absent
+3932,126034,Implant,None
+3932,126034,Surgery,None
+3932,126034,"Broken Bone",None
+3932,126034,"Facial Trauma",None
+3932,126034,"Plastic Surgery",None
+3932,126034,"Dental Child",Healthy
+3932,126034,"Radiation Therapy",No
+3932,126034,Scoliosis,Absent
+3980,138131,,
+3984,134790,,
+3999,113158,,
+4029,126338,,
+4035,120619,Diagnosis,"Mental illness"
+4052,132464,Diagnosis,Asthma
+4052,132464,Diagnosis,"Diabetes Type I"
+4074,136168,,
+4093,106817,"Facial Trauma","Trauma to upper face- hairline to glabella"
+4102,113518,Diagnosis,Other
+4244,119072,Diagnosis,Other
+4246,101875,,
+4277,118348,,
+4313,124292,"Broken Bone",Arm
+4313,124292,"Facial Trauma","Trauma to middle face-glabella to anterior nasal spine"
+4313,124292,"Facial Trauma","Trauma to lower face- anterior nasal spine and below"
+4313,124292,Diagnosis,"Mental illness"
+4322,133435,,
+4325,134488,,
+4343,137990,Surgery,Genitals
+4343,137990,"Broken Bone",None
+4343,137990,"Facial Trauma",None
+4343,137990,Diagnosis,None
+4357,126002,,
+4370,123656,,
+4403,103066,"Broken Bone",None
+4403,103066,Diagnosis,None
+4410,139054,,
+4416,119379,Diagnosis,"Mental illness"
+4473,119219,,
+4491,134906,,
+4492,112839,,
+4505,134580,,
+4552,130077,Implant,None
+4552,130077,Surgery,Arms
+4552,130077,"Broken Bone",Arm
+4552,130077,"Facial Trauma",None
+4552,130077,"Plastic Surgery",None
+4552,130077,Diagnosis,"Mental illness"
+4552,130077,Diagnosis,Asthma
+4552,130077,"Dental Child",Healthy
+4552,130077,"Radiation Therapy",No
+4552,130077,Scoliosis,Absent
+4562,130712,,
+4563,118172,Implant,Plate
+4563,118172,Surgery,Thorax
+4563,118172,"Broken Bone",None
+4563,118172,"Facial Trauma",None
+4563,118172,"Plastic Surgery",None
+4563,118172,Diagnosis,"Mental illness"
+4563,118172,"Dental Child",Healthy
+4563,118172,Scoliosis,Absent
+4627,132977,,
+4640,117174,,
+4641,125410,,
+4653,101797,,
+4654,124770,,
+4678,102101,,
+4699,101740,,
+4748,109893,,
+4807,112356,,
+4834,122422,,
+4967,124119,,
+5020,117360,Diagnosis,"Mental illness"
+5097,131380,,
+5128,127455,,
+5180,137088,,
+5192,102345,,
+5281,117444,,
+5310,127126,,
+5316,134959,,
+5350,118790,,
+5362,119082,Diagnosis,"Autism spectrum"
+5362,119082,Diagnosis,Epilepsy
+5368,123714,Diagnosis,"Mental illness"
+5378,118377,,
+5379,124397,,
+5380,101451,,
+5467,104011,,
+5549,107138,,
+5592,120429,,
+5597,117338,,
+5620,121316,,
+5876,138040,,
+5931,134151,,
+5934,106783,"Broken Bone",Leg
+5934,106783,"Broken Bone",Head
+5934,106783,Diagnosis,Stroke
+5934,106783,Diagnosis,"Non-epileptic seizures"
+6010,134516,,
+6025,132505,,
+6058,111459,,
+6107,112200,Surgery,Thorax
+6107,112200,"Broken Bone",None
+6107,112200,"Facial Trauma",None
+6107,112200,Diagnosis,Other
+6136,100479,Diagnosis,Unknown
+6185,126401,,
+6217,123116,Diagnosis,"Mental illness"
+6220,104730,Surgery,Legs
+6220,104730,"Broken Bone",None
+6220,104730,"Facial Trauma",None
+6220,104730,"Plastic Surgery",None
+6220,104730,Diagnosis,None
+6220,104730,"Dental Adult",Healthy
+6220,104730,"Dental Child",Healthy
+6220,104730,"Radiation Therapy",No
+6220,104730,Scoliosis,Absent
+6256,133875,,
+6397,116143,,
+6398,105042,,
+6431,109364,,
+6434,118089,,
+6537,131117,,
+6627,138222,,
+6634,121334,,
+6658,126716,,
+6708,120564,,
+6763,119356,,
+6784,116034,,
+6808,107776,,
+6831,100287,,
+6848,133203,,
+6880,109909,,
+6894,123618,,
+7008,105739,,
+7017,126949,,
+7046,111997,,
+7238,136784,,
+7256,136653,,
+7365,136645,,
+7374,139509,,
+7378,107992,,
+7405,130343,,
+7461,113544,,
+7473,130045,,
+7494,106506,,
+7502,131485,,
+7503,135199,,
+7592,127122,,
+7674,127316,Diagnosis,"Mental illness"
+7780,106786,Diagnosis,"Mental illness"
+7833,126185,,
+7853,131021,,
+7866,105699,,
+7907,117628,,
+7950,107786,,
+7989,111442,,
+8063,105378,,
+8078,129054,,
+8127,104676,,
+8176,117418,,
+8309,121990,,
+8433,135142,,
+8509,116077,,
+8563,106677,,
+8599,132133,,
+8639,112778,,
+8649,105918,,
+8659,102148,,
+8696,128110,,
+8710,120568,,
+8735,135964,,
+8742,115082,,
+8769,122397,,
+8784,119860,,
+8788,106671,,
+8803,105007,,
+8905,108524,,
+8928,108153,,
+8932,108961,,
+9069,123077,,
+9113,103938,,
+9114,113033,Implant,None
+9114,113033,Surgery,None
+9114,113033,"Broken Bone",None
+9114,113033,"Facial Trauma",None
+9114,113033,"Plastic Surgery",None
+9114,113033,Diagnosis,None
+9114,113033,"Dental Adult",Healthy
+9114,113033,"Dental Child",Healthy
+9114,113033,"Radiation Therapy",No
+9114,113033,Scoliosis,Absent
+9183,105462,,
+9257,101046,Surgery,"Head "
+9257,101046,Surgery,Thorax
+9257,101046,Diagnosis,Other
+9315,137112,,
+9325,130688,,
+9346,134873,Implant,None
+9346,134873,Surgery,None
+9346,134873,"Broken Bone",None
+9346,134873,"Facial Trauma",None
+9346,134873,"Plastic Surgery",None
+9346,134873,Diagnosis,None
+9359,126780,,
+9360,135654,,
+9415,127657,Surgery,"Head "
+9415,127657,Surgery,Thorax
+9415,127657,Diagnosis,Other
+9437,101011,,
+9438,122960,Diagnosis,"Mental illness"
+9442,140440,Implant,None
+9442,140440,Surgery,None
+9442,140440,"Broken Bone",Arm
+9442,140440,"Facial Trauma",None
+9442,140440,"Plastic Surgery",None
+9442,140440,Diagnosis,None
+9442,140440,"Dental Child",Healthy
+9442,140440,"Radiation Therapy",No
+9442,140440,Scoliosis,Absent
+9469,128068,Surgery,Neck
+9469,128068,Diagnosis,Other
+9511,112442,,
+9513,124016,,
+9516,110163,"Broken Bone",Leg
+9516,110163,Diagnosis,Epilepsy
+9516,110163,Diagnosis,Other
+9547,131477,,
+9562,100195,Diagnosis,Epilepsy
+9582,103712,,
+9583,126032,,
+9596,132394,,
+9650,118210,,
+9671,139910,,
+9724,140723,,
+9829,134054,,
+9838,125579,Diagnosis,Other
+9844,131392,,
+9931,118016,,
+9939,103540,,
+9966,107172,,
+9977,113360,,
+10034,137919,,
+10070,105469,,
+10081,117432,,
+10135,134032,,
+10143,121073,,
+10175,129646,,
+10208,129915,,
+10234,136129,,
+10240,128792,,
+10269,124127,,
+10386,120886,,
+10390,124552,Implant,None
+10390,124552,Surgery,None
+10390,124552,"Broken Bone",None
+10390,124552,"Facial Trauma",None
+10390,124552,"Plastic Surgery",None
+10390,124552,Diagnosis,"Mental illness"
+10390,124552,"Dental Adult",Healthy
+10390,124552,"Dental Child","Dental cavities"
+10390,124552,"Dental Child",Healthy
+10390,124552,"Radiation Therapy",No
+10390,124552,Scoliosis,Absent
+10418,117109,,
+10428,117042,"Broken Bone",Arm
+10428,117042,"Broken Bone",Wrist/hand
+10428,117042,Diagnosis,"Autism spectrum"
+10428,117042,Diagnosis,Epilepsy
+10428,117042,"Dental Child","Dental abscess "
+10439,116475,Surgery,Thorax
+10494,118115,,
+10496,140253,,
+10514,138917,,
+10616,105785,,
+10623,110833,,
+10651,111866,,
+10736,113578,,
+10737,131353,,
+10741,127041,,
+10743,131206,,
+10759,113974,,
+10796,134475,,
+10816,128073,,
+10822,141011,,
+10851,120819,,
+10879,102564,,
+10908,137543,,
+10909,127283,,
+10912,111473,,
+10935,101285,,
+10959,103435,,
+11049,117213,,
+11123,112307,,
+11143,111920,,
+11205,118247,,
+11210,102698,,
+11219,141089,,
+11281,100089,,
+11297,118253,Implant,None
+11297,118253,Surgery,Thorax
+11297,118253,"Broken Bone",None
+11297,118253,"Facial Trauma",None
+11297,118253,"Plastic Surgery",None
+11297,118253,Diagnosis,None
+11297,118253,"Dental Adult",Healthy
+11297,118253,"Dental Child",Healthy
+11297,118253,"Radiation Therapy",No
+11297,118253,Scoliosis,Absent
+11384,124482,,
+11387,140500,Implant,None
+11387,140500,Surgery,None
+11387,140500,"Broken Bone",None
+11387,140500,"Facial Trauma",None
+11387,140500,"Plastic Surgery",None
+11387,140500,Diagnosis,Asthma
+11387,140500,"Dental Child",Healthy
+11387,140500,"Radiation Therapy",No
+11387,140500,Scoliosis,Absent
+11409,110917,"Dental Adult",Unknown
+11441,113028,,
+11465,110360,,
+11517,140776,,
+11522,134170,,
+11526,126273,,
+11527,128998,,
+11552,111067,,
+11566,104587,,
+11589,104862,,
+11607,115804,Diagnosis,"Mental illness"
+11607,115804,Diagnosis,Schizophrenia
+11646,118425,,
+11650,137469,Surgery,Neck
+11650,137469,Diagnosis,"Diabetes Type II"
+11650,137469,Diagnosis,Other
+11664,131218,,
+11672,126987,,
+11697,100279,Diagnosis,"Mental illness"
+11723,101314,,
+11778,108463,,
+11845,132136,,
+11872,104686,,
+11892,108225,,
+11902,102241,,
+11987,141048,,
+12011,119363,,
+12017,114841,,
+12096,111488,,
+12097,126140,,
+12162,100703,,
+12176,114745,,
+12226,124328,,
+12241,136534,,
+12262,136506,,
+12276,117435,,
+12290,129412,,
+12303,132725,,
+12318,138632,,
+12339,110959,,
+12343,122225,,
+12381,105668,,
+12397,111463,,
+12480,137263,,
+12530,120208,,
+12600,131842,Implant,None
+12600,131842,Surgery,None
+12600,131842,"Broken Bone",None
+12600,131842,"Facial Trauma",None
+12600,131842,"Plastic Surgery",None
+12600,131842,Diagnosis,None
+12600,131842,Scoliosis,Absent
+12668,120622,,
+12677,140658,Diagnosis,"Autism spectrum"
+12680,123790,,
+12773,122335,,
+12775,119732,,
+12832,134893,,
+12833,119553,,
+12836,115293,Diagnosis,Hypertension
+12836,115293,Diagnosis,Epilepsy
+12836,115293,Diagnosis,Other
+12944,128907,,
+13039,123570,,
+13061,109404,,
+13067,102470,,
+13076,139733,,
+13088,109194,,
+13101,107495,,
+13103,104464,,
+13129,135456,,
+13172,132898,,
+13255,125003,,
+13282,134193,,
+13316,116146,,
+13394,108330,,
+13456,113077,,
+13475,105153,,
+13489,126383,,
+13518,119813,,
+13530,103326,,
+13593,137993,Implant,None
+13593,137993,Surgery,None
+13593,137993,"Broken Bone",None
+13593,137993,"Facial Trauma",None
+13593,137993,"Plastic Surgery",None
+13593,137993,Diagnosis,"Mental illness"
+13593,137993,Diagnosis,Asthma
+13593,137993,"Dental Adult",Healthy
+13593,137993,"Dental Child","Dental cavities"
+13593,137993,"Radiation Therapy",No
+13593,137993,Scoliosis,Absent
+13636,119851,"Broken Bone",None
+13636,119851,"Dental Child","Dental cavities"
+13637,123001,Implant,None
+13637,123001,Surgery,None
+13637,123001,"Broken Bone",None
+13637,123001,"Facial Trauma",None
+13637,123001,Diagnosis,None
+13637,123001,"Dental Child",Healthy
+13639,118452,Implant,None
+13639,118452,Surgery,None
+13639,118452,"Broken Bone",None
+13639,118452,"Facial Trauma",None
+13682,131622,,
+13716,128166,Diagnosis,"Mental illness"
+13785,134483,Diagnosis,Other
+13836,100861,Implant,None
+13836,100861,Surgery,None
+13836,100861,"Broken Bone",None
+13836,100861,Diagnosis,Other
+13871,111131,,
+13874,108559,,
+13969,100573,,
+13974,134922,Implant,None
+13974,134922,Surgery,Legs
+13974,134922,"Broken Bone",Arm
+13974,134922,"Facial Trauma","Trauma to lower face- anterior nasal spine and below"
+13974,134922,"Plastic Surgery",None
+13974,134922,Diagnosis,"Mental illness"
+13974,134922,"Dental Adult",Healthy
+13974,134922,"Dental Child",Healthy
+13974,134922,"Radiation Therapy",No
+13974,134922,Scoliosis,Absent
+13994,134292,Diagnosis,Asthma
+14027,120928,Implant,None
+14027,120928,Surgery,None
+14027,120928,"Broken Bone",None
+14027,120928,"Facial Trauma",None
+14027,120928,"Plastic Surgery",None
+14027,120928,Diagnosis,"Mental illness"
+14027,120928,"Dental Adult",Healthy
+14027,120928,"Dental Child",Healthy
+14027,120928,"Radiation Therapy",No
+14027,120928,Scoliosis,Absent
+14053,127790,Implant,None
+14053,127790,Surgery,None
+14053,127790,"Broken Bone",None
+14053,127790,"Facial Trauma",None
+14053,127790,"Plastic Surgery",None
+14053,127790,Diagnosis,None
+14053,127790,"Dental Adult","Dental cavities"
+14053,127790,"Dental Child","Dental abscess "
+14053,127790,"Radiation Therapy",No
+14053,127790,Scoliosis,Absent
+14110,107726,,
+14123,137292,,
+14124,138153,,
+14192,135639,,
+14195,109816,,
+14220,102256,,
+14256,136482,Implant,None
+14256,136482,Surgery,None
+14256,136482,"Broken Bone",None
+14256,136482,"Facial Trauma",None
+14256,136482,"Plastic Surgery",None
+14256,136482,Diagnosis,"Mental illness"
+14256,136482,"Dental Child",Healthy
+14256,136482,"Radiation Therapy",No
+14256,136482,Scoliosis,Absent
+14303,128812,,
+14340,108773,Diagnosis,Other
+14374,103134,,
+14383,131326,,
+14386,106561,,
+14389,106578,,
+14401,126246,Diagnosis,"Staphylococcus aureus"
+14401,126246,Diagnosis,Other
+14427,111780,Diagnosis,"Mental illness"
+14433,132750,,
+14505,122565,,
+14554,131438,Implant,None
+14554,131438,Surgery,None
+14554,131438,"Broken Bone",None
+14554,131438,"Facial Trauma",None
+14554,131438,"Plastic Surgery",None
+14554,131438,Diagnosis,None
+14593,105881,,
+14599,106655,,
+14605,139474,,
+14611,129508,,
+14627,134689,,
+14685,135642,,
+14686,125004,,
+14713,126750,,
+14724,126913,,
+14725,135739,,
+14735,111243,,
+14783,140258,,
+14794,140675,,
+14936,123453,,
+14940,127281,,
+14977,113755,,
+14979,125479,,
+15060,138136,,
+15093,121515,,
+15128,139559,,
+15160,128679,,
+15169,101819,,
+15192,126802,,
+15205,136759,,
+15228,123393,,
+15230,129423,,
+15251,100035,,

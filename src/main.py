@@ -2,19 +2,18 @@
 ## Author: Emily Coello
 
 import os
-import zipfile
+import shutil
 import pandas as pd
 
-data_dir = "../data"
-output_file = "../output/combined_data.csv"
+data_dir = "./data"
+output_file = "./output/combined_data.csv"
 
 def unzip_all_files(zip_folder_path):
     for file in os.listdir(zip_folder_path):
         if file.endswith(".zip"):
             zip_path = os.path.join(zip_folder_path, file)
             extract_path = os.path.join(zip_folder_path, file.replace(".zip",""))
-            with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-                zip_ref.extractall(extract_path)
+            shutil.unpack_archive(zip_path, extract_path)
             print(f"Extracted these files {file} -> {extract_path}")
 
 def combine_csvs(data_path):
