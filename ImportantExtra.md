@@ -20,4 +20,4 @@ Finally, here is are two links that can provide guidance on docstrings and their
   - https://peps.python.org/pep-0257/
   - https://www.datacamp.com/tutorial/docstrings-python
 
-_More important info anf functions will be added with time_
+_More important info and functions will be added with time_
