@@ -6,6 +6,7 @@ Our goal is to not only have a functionin gcode, but a well documented one as we
 The following will be links and their relevance to our code.
 
 **Docstring**
+
 Docstring is short for "documentatioon string" and it is a string literal used to document a Python module, class, function, or method. Unlike regular comments, which are ignored by 
 the Python interpreter, docstrings are retained at runtime and can be accessed programmatically, for instance, through the help() function or the __doc__ attribute of an object. 
 
