@@ -1,0 +1,59 @@
+import os
+import shutil
+import pandas as pd
+
+# === Config ===
+main_zip_path =       # <-- Replace with your actual path
+working_dir =         # temporary folder
+output_csv_path =    # final combined CSV
+
+print(f"Working directory: {os.path.abspath(working_dir)}")
+
+
+def extract_all_zip_files(main_zip, destination):
+    if os.path.exists(destination):
+        shutil.rmtree(destination)
+    os.makedirs(destination)
+
+    shutil.copy(main_zip, destination)
+    copied_zip_path = os.path.join(destination, os.path.basename(main_zip))
+    try:
+        shutil.unpack_archive(copied_zip_path, destination)
+    except Exception as e:
+        print(f"Failed to unpack zip: {e}")
+
+    for root, _, files in os.walk(destination):
+        for file in files:
+            if file.endswith('.zip'):
+                zip_path = os.path.join(root, file)
+                extract_to = os.path.join(root, file[:-4])
+                try:
+                    shutil.unpack_archive(zip_path, extract_to)
+                except Exception as e:
+                    print(f"Failed to unpack {zip_path}: {e}")
+
+
+def combine_all_csvs(directory):
+    combined_df = pd.DataFrame()
+    for root, _, files in os.walk(directory):
+        for file in files:
+            if file.endswith('.csv'):
+                csv_path = os.path.join(root, file)
+                try:
+                    df = pd.read_csv(csv_path)
+                    combined_df = pd.concat([combined_df, df], ignore_index=True)
+                except Exception as e:
+                    print(f"Error reading {csv_path}: {e}")
+
+    return combined_df
+
+
+# === Main Script ===
+extract_all_zip_files(main_zip_path, working_dir)
+master_df = combine_all_csvs(working_dir)
+
+if not master_df.empty:
+    master_df.to_csv(output_csv_path, index=False)
+    print(f"Combined CSV created at: {output_csv_path}")
+else:
+    print("No CSV data found.")
